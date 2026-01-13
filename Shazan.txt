@@ -1,0 +1,9 @@
+p1: git version,git init,git a1.txt,git config,git config,git add a1.txt,git commit -m "finish",git log
+p2: git init,git confif,git config,gedit a1.txt,git add .,git status,git commit -m "finish creating file 1",git status,git branch featu_branch,git branch,git checkout master,git merge featu_branch
+p6: git init,git config,gedit a1.txt,git add .,git commit -m "File 1 Created",file 2,git branch,git branch main,git checkout main,file 3,git checkout master,git log --oneline,git cheery-pick
+p7: git init,git checkout b1,gedit,git add .,git stash save,git stash list,git stash pop a1.txt,git stash pop,git status,touch f1,git add f1,git log,git tag v1.0,git tag
+p4: git init,git config,gedit,git add .,git commit -m "file created",git clone repo,git branch,git branch b1,git checkout -b b1,git checkout -b newbranch,git branch git merge newbranch,git log,ls
+p8: git init,gedit,git add .,git config,git log,git show
+p12: git init,gedit,git add .,git commit -m"",git config,git log,git revert
+p9: git init,gedit,git add .,git config,git commit -m,git log -1,git show
+p10: git log --author="" --since="2856-12-67" --until="3436-12-67"
